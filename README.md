@@ -5,5 +5,6 @@ arduino must send signal to corresponding LED for the camera that is taken
 v1 will only support 2 states (on & off). Each of 3 LEDs will either be red (live) or off (otherwise)
 v1 will connect to pc over usb 2.0 to access blackmagic software and get the live input. 
 
+documentation for blackmagic sdk api can be found in the .zip file
 
 I will supply all hardware for v1 -josh garbi
